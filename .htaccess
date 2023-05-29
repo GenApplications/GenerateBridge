@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^(.*)-api/(.*)$ index.php?api=$1&function=$2&%{QUERY_STRING} [L]
