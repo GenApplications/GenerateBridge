@@ -1,2 +1,2 @@
-# cPanel_Bridge_incomplete
+# cPanel_Bridge
 Bridging cPanel with non-WHM APIs
