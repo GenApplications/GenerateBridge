@@ -1,5 +1,5 @@
-# cPanel Bridge
-Bridging cPanel with non-WHM APIs
+# GenerateBridge
+Bridging cPanel with non-WHM APIs (incomplete)
 <br>
 Features:
 <br>
