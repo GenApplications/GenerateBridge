@@ -1,5 +1,6 @@
 # GenerateBridge
-GenerateBridge is a WHM API Bridge that allows getting WHM client areas working with non-WHM APIs
+GenerateBridge is a WHM API Bridge that allows getting WHM client areas working with non-WHM APIs 
+<br>
 Bridging cPanel with non-WHM APIs (incomplete)
 ## Features
 - createacct ✅
